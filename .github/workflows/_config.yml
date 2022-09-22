@@ -1,3 +1,5 @@
 markdown: GFM
 kramdown:
 input: GFM
+url: 'https://marek123271.github.io/adrian-strona/' # your main domain
+theme: jekyll-theme-hacker
